@@ -14,7 +14,7 @@ Assessment_Q2:
 
 Join users_customuser with savings_savingsaccount using owner_id to link customers to their transactions.
 
-Use a subquery or CTE to calculate total transactions and time span per customer.
+Use a subquery to calculate total transactions and time span per customer.
 
 Compute the average transactions per month.
 
