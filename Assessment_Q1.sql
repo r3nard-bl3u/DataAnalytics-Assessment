@@ -33,4 +33,3 @@ JOIN Investments i ON u.id = i.owner_id
 WHERE u.is_account_deleted = false
 AND u.is_account_disabled = false
 ORDER BY total_deposits DESC;
-
